@@ -1,2 +1,5 @@
 joko (2929283, joko@python.com)
 dimas (938565, dimas@python.com)
+dela (39846462, dela@python.com)
+icha (2837649, icha@python.com)
+santi (383746, santi@python.com)
